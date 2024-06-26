@@ -1,3 +1,5 @@
+export const MAX_ATTRIBUTE_POINTS = 70;
+
 export const ATTRIBUTE_LIST = [
     'Strength',
     'Dexterity',
